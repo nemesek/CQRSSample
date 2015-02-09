@@ -1,0 +1,17 @@
+CqrsInvestigation/CqrsDal/bin
+CqrsInvestigation/CqrsDal/obj
+CqrsInvestigation/CqrsDal.Tests/bin
+CqrsInvestigation/CqrsDal.Tests/obj
+CqrsInvestigation/CqrsDomain/bin
+CqrsInvestigation/CqrsDomain/obj
+CqrsInvestigation/CqrsDomain.Tests/bin
+CqrsInvestigation/CqrsDomain.Tests/obj
+CqrsInvestigation/CqrsPoc/bin
+CqrsInvestigation/CqrsPoc/obj
+CqrsInvestigation/CqrsPoc.Tests/bin
+CqrsInvestigation/CqrsPoc.Tests/obj
+CqrsInvestigation/ModelSyncUtility/bin
+CqrsInvestigation/ModelSyncUtility/obj
+CqrsInvestigation/packages
+CqrsInvestigation/.v11.suo
+CqrsInvestigation/.v12.suo
