@@ -8,7 +8,8 @@ For a more thorough discussion of the project refer  to:http://softwareunwound.c
 -	5) Launch SQL Server Management Services, point to your local Sql instance and run the scripts found at:
   https://github.com/softwareunwound/CQRSSample/tree/master/CqrsInvestigation/CqrsInvestigation/ModelSyncUtility/DataPopulationScripts
 -	6) Ensure that Mongodb is running locally on your machine
--	7) Run the https://github.com/softwareunwound/CQRSSample/tree/master/CqrsInvestigation/CqrsInvestigation/ModelSyncUtility (This will populate mongo with the same data that is in your newly created DB from step 5.)
+-	7) Run the https://github.com/softwareunwound/CQRSSample/tree/master/CqrsInvestigation/CqrsInvestigation/ModelSyncUtility 
+	-	This will populate mongo with the same data that is in your newly created DB from step 5.
 
 If you want to run SQL or Mongo remotely,  make sure to update the connection strings in https://github.com/softwareunwound/CQRSSample/blob/master/CqrsInvestigation/CqrsInvestigation/CqrsDal/ProductsRepository.cs
 and https://github.com/softwareunwound/CQRSSample/blob/master/CqrsInvestigation/CqrsInvestigation/CqrsDal/MongoRepository.cs
